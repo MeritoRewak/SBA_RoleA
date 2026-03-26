@@ -1,4 +1,5 @@
 #Change in line1 - RoleA
+#Conflict 2 - RoleA
 import math
 def triangle_area(base, height):
     """Calculates the area of a triangle."""
