@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-#change in line 1 - RoleB
-=======
 #Change in line1 - RoleA
->>>>>>> upstream/main
 import math
 def triangle_area(base, height):
     """Calculates the area of a triangle."""
@@ -19,4 +15,5 @@ if __name__ == "__main__":
     # Demonstration of current logic
     print(f"Triangle Area (b=10, h=5): {triangle_area(10, 5)}")
     print(f"Square Area (a=4): {square_area(4)}")
+    
 
