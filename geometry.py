@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #change in line 1 - RoleB
+=======
+#Change in line1 - RoleA
+>>>>>>> upstream/main
 import math
 def triangle_area(base, height):
     """Calculates the area of a triangle."""
